@@ -1,3 +1,6 @@
+Output screenshot:
+![alt text](./public/assets/App_Output.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
