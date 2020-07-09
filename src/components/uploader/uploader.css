@@ -1,0 +1,17 @@
+.fileUploader {
+    padding: 20px;
+    text-align: center;
+}
+.fileUploadButton {
+    border: 1px solid #bd9d35;
+    display: inline-block;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #bf8b21;
+}
+
+input[type="file"] {
+    display: none;
+}
